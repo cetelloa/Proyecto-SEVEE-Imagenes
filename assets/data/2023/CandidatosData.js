@@ -33,6 +33,7 @@ export const dessertsData = [
     p4: "#fcdabc",
     p5: "#B1E1E7",
     p6: "#f8bbd0",
+    p8: "#ccffeb",
   },
   {
     porcentaje: "Nivel Medio",
@@ -42,6 +43,7 @@ export const dessertsData = [
     p4: "#f8c89c",
     p5: "#64C3CE",
     p6: "#f48fb1",
+    p8: "#80fcc6",
   },
   {
     porcentaje: "Nivel Alto",
@@ -51,6 +53,7 @@ export const dessertsData = [
     p4: "#e69237",
     p5: "#35A0AC",
     p6: "#e91e63",
+    p8: "#00FA9A",
   },
 ];
 
@@ -125,8 +128,8 @@ export const candidatoData = [
   {
     partido: 8,
     nombre: "BOLIVAR ARMIJOS",
-    url: img("imagenes_presidentes/candidato_008.png"),
-    logo: img("logos_partidos_politicos/AMIGO.png"),
+    url: img("imagenes_presidentes/2023/BOLIVARARMIJOS_2023.png"),
+    logo: img("logos_partidos_politicos/2023/AMIGO_2023.png"),
     color: "#00FA9A", // Verde claro
     nombrePartido: "AMIGO",
     json: "AMIGO",
