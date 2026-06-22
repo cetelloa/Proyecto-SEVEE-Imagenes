@@ -25,7 +25,11 @@ const img = (path) => {
 // 1. LEYENDA DE COLORES
 // ============================================================
 
-export const dessertsData = [];
+export const dessertsData = [
+  { porcentaje: "Nivel Bajo",  p1: "#f5c89a" },
+  { porcentaje: "Nivel Medio", p1: "#f5900a" },
+  { porcentaje: "Nivel Alto",  p1: "#c46a00" },
+];
 
 // ============================================================
 // 2. DICCIONARIO DE CANDIDATOS
