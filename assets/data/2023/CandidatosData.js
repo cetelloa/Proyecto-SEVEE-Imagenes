@@ -62,8 +62,8 @@ export const candidatoData = [
   {
     partido: 1,
     nombre: "LUISA GONZALEZ",
-    url: img("imagenes_presidentes/LUISA_GONZALEZ_2023.png"), // Placeholder
-    logo: img("logos_partidos_politicos/RC_2023.png"), // O Revolución Ciudadana
+    url: img("imagenes_presidentes/2023/LUISA_GONZALEZ_2023.png"), // Placeholder
+    logo: img("logos_partidos_politicos/2023/RC_2023.png"), // O Revolución Ciudadana
     color: "#12a2c2", // Celeste RC
     nombrePartido: "RC",
     json: "RC",
