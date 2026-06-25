@@ -42,7 +42,7 @@ export const dessertsData = [
   { porcentaje: 'Porcentaje de votos bajo', 
    p1: '#6baed6', 
    p2: '#fd8d3c', 
-   p3: '#A569BD', 
+   p3: '#fff5cc', 
    p4: '#f8c89c',
    p5: '#64C3CE',
    p6: '#f48fb1',
@@ -59,7 +59,7 @@ export const dessertsData = [
   { porcentaje: 'Porcentaje de votos medio', 
    p1: '#3182bd',
    p2: '#e6550d', 
-   p3: '#8E44AD', 
+   p3: '#ffe57f', 
    p4: '#f2b77c', 
    p5: '#40b6c4',
    p6: '#f06292', 
@@ -76,7 +76,7 @@ export const dessertsData = [
   { porcentaje: 'Mayor porcentaje de votos', 
    p1: '#08519c', 
    p2: '#a63603', 
-   p3: '#7D3C98',
+   p3: '#FFD700',
    p4: '#e69237', 
    p5: '#35A0AC',
    p6: '#e91e63',
@@ -119,9 +119,9 @@ export const candidatoData = [
   {
     partido: 3,
     nombre: 'BUCARAM ABDALA',
-    url: img('candidatos/3.png'),
-    logo: img('partidos/AMIGO.png'),
-    color: '#7D3C98',
+    url: img('imagenes_presidentes/1996/ABDALABUCARAM_1996.png'),
+    logo: img('logos_partidos_politicos/1996/PARTIDO ROLDOSISTA ECUATORIANO.png'),
+    color: '#FFD700',
     nombrePartido: 'PRE-10',
     json: '3'
   },
@@ -178,5 +178,14 @@ export const candidatoData = [
     color: '#229954',
     nombrePartido: 'PLRE-FRA-2/14',
     json: '9'
+  },
+  {
+    partido: 10,
+    nombre: 'EMPATE',
+    url: img(''),
+    logo: img(''),
+    color: '#808080',
+    nombrePartido: 'EMPATE',
+    json: 'EMPATE'
   }
 ];
